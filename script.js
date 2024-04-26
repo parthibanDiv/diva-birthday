@@ -7,7 +7,7 @@ const container = document.querySelector(".container");
 const btn = document.querySelector(".btn")
 
 const endDate ="22 july 2024 12:00 AM"
-alert ("Hey there!!! End of the day you can see button at the bottom of the page Then you can see my special wish ") 
+window.alert("Hey there!!! End of the day you can see button at the bottom of the page Then you can see my special wish ") 
 
 function dummy(){
     btn.style.display = "block";
